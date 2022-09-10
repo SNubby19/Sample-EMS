@@ -1,0 +1,3 @@
+Full Time,654321,John,Doe,Male,Mississauga,0.12,900.0
+Full Time,803119,Shreyas,T,Male,Oakville,0.12,9003843.0
+Part Time,696969,Forest,Li,Gay,Trashland,0.99,100.0,0.1,0.1
